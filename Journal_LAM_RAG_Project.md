@@ -15,8 +15,12 @@
 
 | Date | Activity | Assignee | Outcome |
 |---|---|---|---|
-| 2026-10-22 | Kickoff meeting with LAM | Team | Discussed project goals, candidate sources, MMX, access controls, versioning, and graph extraction. |
-| YYYY-MM-DD | Add activity | Name / team | Briefly record what was done and the outcome. |
+| 20/10/26 | Kickoff meeting with LAM | Team | Discussed project goals, candidate sources, MMX, access controls, versioning, and graph extraction. |
+| 21/10/26 | Noted requirements, sources, problems, deliverables, receivables | Team | Whiteboard |
+| 22/10/26 | Project Overview | Team | Whiteboard |
+| 22/10/26 | Created, modified, organized Github  | Amrutha, Sudhiksha | - |
+| 22/10/26 | Journal on Github | Sudhiksha | - |
+| 22/10/26 | Research papers | Amrutha | - |
 
 ---
 
