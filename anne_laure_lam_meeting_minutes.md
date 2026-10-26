@@ -1,6 +1,6 @@
 # LAM RAG Project — Meeting Minutes
 
-**Date:** 26 October 2026  
+**Date:** 23 October 2026  
 **Project:** LAM AI-Powered Search Assistant  
 **Objective:** Build an initial RAG demonstrator using scientific documentation and project information from LAM.
 
